@@ -1,0 +1,2 @@
+spec :
+drink tea / coffee
