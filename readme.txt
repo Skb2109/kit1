@@ -1,2 +1,2 @@
 spec :
-drink tea / coffee
+breakfast skip
