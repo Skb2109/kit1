@@ -1,2 +1,2 @@
-spec :
-drink tea / coffee
+2main magiee
+ready noodle
