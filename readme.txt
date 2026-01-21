@@ -1,2 +1,2 @@
-spec :
-breakfast skip
+2main magiee
+ready noodle
